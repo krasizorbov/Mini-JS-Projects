@@ -1,2 +1,2 @@
 # Mini-JS-Projects
-Mini Projects With Pure JavaScript
+Mini Projects With HTML5, CSS And Pure JavaScript, No Frameworks Or Libraries
